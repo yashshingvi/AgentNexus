@@ -257,6 +257,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 🙏 Acknowledgments
 
-- Built with [LangGraph](https://github.com/langchain-ai/langgraph)
-- Powered by [OpenAI](https://openai.com/)
+- LLMs Powered by [OpenAI](https://openai.com/)
 - Memory systems using [Redis](https://redis.io/) and [ChromaDB](https://www.trychroma.com/) 
