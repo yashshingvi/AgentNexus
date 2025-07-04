@@ -1,6 +1,6 @@
 # Multi-Agent LangGraph System
 
-A sophisticated multi-agent system built with LangGraph that features a supervisor agent coordinating three specialized agents with both short-term and long-term memory capabilities.
+A sophisticated multi-agent system built with Pure Python & Langgraph that features a supervisor agent coordinating three specialized agents with both short-term and long-term memory capabilities.
 
 ## 🏗️ System Architecture
 
