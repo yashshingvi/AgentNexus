@@ -1,0 +1,13 @@
+# OpenAI API Configuration
+OPENAI_API_KEY=s
+# Redis Configuration (for short-term memory)
+REDIS_URL=redis://localhost:6379
+
+# ChromaDB Configuration (for long-term memory)
+CHROMA_PERSIST_DIRECTORY=./chroma_db
+
+# Agent Configuration
+SUPERVISOR_MODEL=gpt-4
+AGENT_MODEL=gpt-4o-mini
+TEMPERATURE=0.7
+MAX_TOKENS=2000 
